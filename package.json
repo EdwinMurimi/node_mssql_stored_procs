@@ -1,0 +1,29 @@
+{
+  "name": "node_mssql_stored_procs",
+  "version": "1.0.0",
+  "description": "This is a node app with microsoft SQL and stored procedures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdwinMurimi/node_mssql_stored_procs.git"
+  },
+  "keywords": [
+    "node",
+    "mssql",
+    "stored_procedure"
+  ],
+  "author": "edwin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EdwinMurimi/node_mssql_stored_procs/issues"
+  },
+  "homepage": "https://github.com/EdwinMurimi/node_mssql_stored_procs#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mssql": "^7.2.1"
+  }
+}
