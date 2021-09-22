@@ -13,7 +13,7 @@
   "keywords": [
     "node",
     "mssql",
-    "stored_procedure"
+    "stored procedure"
   ],
   "author": "edwin",
   "license": "MIT",
@@ -22,8 +22,11 @@
   },
   "homepage": "https://github.com/EdwinMurimi/node_mssql_stored_procs#readme",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
     "mssql": "^7.2.1"
   }
 }
