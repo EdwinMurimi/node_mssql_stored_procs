@@ -1,0 +1,1 @@
+UPDATE dbo.tasks SET taskName = '${taskName}', duration = '${duration}', completed = ${completed} WHERE taskID = ${taskID};

@@ -1,0 +1,1 @@
+DELETE FROM dbo.projects WHERE projectID = '${projectID}';

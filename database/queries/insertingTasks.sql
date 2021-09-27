@@ -1,0 +1,1 @@
+INSERT INTO dbo.tasks (projectID, taskName, duration) VALUES ('${projectID}', '${taskName}', '${duration}');

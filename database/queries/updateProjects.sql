@@ -1,0 +1,1 @@
+UPDATE dbo.projects SET projectName = '${projectName}', duration = '${duration}', email = '${email}' WHERE projectID = '${projectID}';
